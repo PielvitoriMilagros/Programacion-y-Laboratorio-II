@@ -1,0 +1,59 @@
+int miEntero;
+string miPalabra;
+bool miBoolean:
+String mipal;   --> con mayuscula es clase
+
+static void Main(string[] args)
+{
+    miEntero = 5;
+}
+
+si no le pongo static a las variables, no me funciona miEntero=5;
+
+
+        static void Main(string[] args)
+        {
+            miEntero = miDouble;
+            miDouble = miEntero;
+        }
+
+El primero tira error, es una conversión implícita que no se permite
+
+miPalabra = miBoolean.ToString(); --> para pasar a texto
+miEntero = int.Parse(miPalabra); --> si puede convierte a entero, sino rompe el programa
+
+int.TryParse(pideunstring,pideunenteroporreferencia)
+if(int.TryParse(miPalabra,out miEntero)); --> retorna True o False
+
+
+OPERADORES
+
+pipe --> Alt+124
+si lo primero de un IF no se cumple en && (o sí se cumple en ||), no sigue evaluando
+
+Ctl + K - D --> formatea el código
+
+switch (variable)
+{
+case valor:
+break;
+case valor:
+break;
+default:
+break;
+}
+
+for (int i=1 ; i<10 ; i++)
+foreach(string auxNombre in nombres) --> recorre cada uno de los valores que hay en nombres
+				     --> guarda cada uno de los valores que va leyendo, de aux
+				     --> no se puede modificar el tamaño de nombres (agregar o borrar) pero sí modificar el contenido
+
+
+CAMBIAR EL COLOR DE PANTALLA
+
+Console.BackgroundColor = ConsoleColor.yellow;
+Console.SetCursorPosition()
+
+
+
+https://github.com/EzequielOggioni/PrimeraClase.git
