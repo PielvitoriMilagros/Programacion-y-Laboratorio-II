@@ -1,0 +1,16 @@
+github.com/FedeDavila1984/utn_prog_y_lab_II
+federicoRdavila@gmail.com
+
+Visual Studio Express (2017 en adelante)
+SQL Express
+
+Un acumulador es una variable unidimensional
+
+
+Métodos abstractos solo en clases abstractas
+Métodos virtuales en cualquier lado
+Objetos --> Instancias en memoria de clases
+static --> método de clase, no se puede instanciar
+
+UNA CLASE POR ARCHIVO
+
