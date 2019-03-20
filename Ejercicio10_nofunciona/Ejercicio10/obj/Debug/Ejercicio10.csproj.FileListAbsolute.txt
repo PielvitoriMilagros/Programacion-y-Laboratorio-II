@@ -1,0 +1,7 @@
+D:\Mili\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.exe.config
+D:\Mili\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.exe
+D:\Mili\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.pdb
+D:\Mili\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.csprojAssemblyReference.cache
+D:\Mili\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.csproj.CoreCompileInputs.cache
+D:\Mili\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.exe
+D:\Mili\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.pdb
