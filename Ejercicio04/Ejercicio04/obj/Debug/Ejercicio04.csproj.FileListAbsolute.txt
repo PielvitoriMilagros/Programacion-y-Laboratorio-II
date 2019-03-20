@@ -1,0 +1,7 @@
+D:\Mili\Ejercicio04\Ejercicio04\bin\Debug\Ejercicio04.exe.config
+D:\Mili\Ejercicio04\Ejercicio04\bin\Debug\Ejercicio04.exe
+D:\Mili\Ejercicio04\Ejercicio04\bin\Debug\Ejercicio04.pdb
+D:\Mili\Ejercicio04\Ejercicio04\obj\Debug\Ejercicio04.csprojAssemblyReference.cache
+D:\Mili\Ejercicio04\Ejercicio04\obj\Debug\Ejercicio04.csproj.CoreCompileInputs.cache
+D:\Mili\Ejercicio04\Ejercicio04\obj\Debug\Ejercicio04.exe
+D:\Mili\Ejercicio04\Ejercicio04\obj\Debug\Ejercicio04.pdb
