@@ -1,0 +1,44 @@
+Los objetos son distintas instancias en tiempo de ejecución, de una clase
+Los objetos solo existen en tiempo de ejecución del programa
+
+NombreClase nombreObjeto = new NombreClase();
+ó
+nombreObjeto = new NombreClase();  --> Los () son el constructor por defecto de la clase, al que no se le pasan parámetros
+
+new --> reservar un espacio en memoria para mi variable objeto
+
+Antes del new, no tiene dirección de memoria, o sea que está en NULL y el objeto no existe
+Garbage Collector, liberará memoria cuando lo crea necesario.
+
+Memoria: dos partes. Stack (pila) y Heap (montón)
+STACK: cuando le pones a algo = NULL (almacena tipo valor) - (int,String,char)
+HEAP: lo limpia automático el GC (almacena tipo referencia) - (texto)
+
+Cuando termina el bloque de código donde fue creada una variable STACK, la variable desaparece (ej: for)
+
+this --> referencia a la instancia en la que se ejecutó el método
+     --> objeto creado a la instancia en la que se encuentra la clase
+     --> 
+NO se destruye objetos explicitamente, se igualan a NULL
+
+CONSTANTES
+const int velocidadLimite = 90 --> código más legible a lo largo del programa
+
+CONSTRUCTORES
+Métodos que crean el objeto.Sin constructor, el objeto es NULL.
+C# nos da uno por defecto (default).Llevan el mismo nombre de la clase.
+
+Dos tipos.
+de instancia: inicializan objetos
+estáticos: inicializan parámetros static (de las clases)
+
+Cuando se declara un constructor, el que viene por defecto pierde valor.
+
+** Con STATIC podes acceder a la clase sin tener un objeto
+** static es un valor compartido en todas las instancias
+** Pones el nombre de la clase y te aparece el atributo
+** el atributo pertenece a la clase y no al objeto
+** un Random se hace static para que arranque siempre desde uno diferente, sino tira siempre el mismo
+
+-En lugar de hacer un IF, se puede escribir algo según (CONDICION ? VERDADERO : FALSO)
+
