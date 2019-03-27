@@ -1,0 +1,30 @@
+SOBRECARGA DE METODOS
+distintos argumentos para un mismo nombre de método
+
+no afecta la firma nombre de parámetro y tipo de retorno
+
+ES ERROR:
+string Metodo (int a,int b)
+int Metodo (int a, int b)
+
+También se pueden sobrecargar los constructores
+
+PARA REUTILIZAR
+public Sobrecarga (string mensaje)
+public Sobrecarga (int n, int x) : this ("Hola") {  }  --> Llamo constructores entre sí
+
+Siempre para reutilizar partes de constructores, se usa el :this()
+Se puede usar dentro del this() cualquier cosa, que represente a algun otro constructor
+
+SOBRECARGA DE OPERADORES
+[acceso] static /TipoRetorno/ operator nombreOperador (Tipo a[,Tipo b])
+
+***ayuda memoria --> public static bool operator
+
+Hay operadores unarios, binarios y de comparación
+Siempre que se sobrecarga ==, se sobrecarga el != (igual igual, distinto)
+Permite generar las conversiones "implícitas"
+
+Una conversión es implicita cunado no se pierden datos, se tiene que hacer explicita cuando pueden perderse
+
+[acceso] static implicit/explicit operator nombreTipo (Tipo a)
