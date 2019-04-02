@@ -1,0 +1,10 @@
+D:\VisualStudio\Mili\Repaso\RepasoConsole\bin\Debug\RepasoConsole.exe.config
+D:\VisualStudio\Mili\Repaso\RepasoConsole\bin\Debug\RepasoConsole.exe
+D:\VisualStudio\Mili\Repaso\RepasoConsole\bin\Debug\RepasoConsole.pdb
+D:\VisualStudio\Mili\Repaso\RepasoConsole\bin\Debug\ClassLibraryRepaso.dll
+D:\VisualStudio\Mili\Repaso\RepasoConsole\bin\Debug\ClassLibraryRepaso.pdb
+D:\VisualStudio\Mili\Repaso\RepasoConsole\obj\Debug\RepasoConsole.csprojAssemblyReference.cache
+D:\VisualStudio\Mili\Repaso\RepasoConsole\obj\Debug\RepasoConsole.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Mili\Repaso\RepasoConsole\obj\Debug\RepasoConsole.csproj.CopyComplete
+D:\VisualStudio\Mili\Repaso\RepasoConsole\obj\Debug\RepasoConsole.exe
+D:\VisualStudio\Mili\Repaso\RepasoConsole\obj\Debug\RepasoConsole.pdb

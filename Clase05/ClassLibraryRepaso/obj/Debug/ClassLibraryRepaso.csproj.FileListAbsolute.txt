@@ -1,0 +1,6 @@
+D:\VisualStudio\Mili\Repaso\ClassLibraryRepaso\bin\Debug\ClassLibraryRepaso.dll
+D:\VisualStudio\Mili\Repaso\ClassLibraryRepaso\bin\Debug\ClassLibraryRepaso.pdb
+D:\VisualStudio\Mili\Repaso\ClassLibraryRepaso\obj\Debug\ClassLibraryRepaso.csprojAssemblyReference.cache
+D:\VisualStudio\Mili\Repaso\ClassLibraryRepaso\obj\Debug\ClassLibraryRepaso.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Mili\Repaso\ClassLibraryRepaso\obj\Debug\ClassLibraryRepaso.dll
+D:\VisualStudio\Mili\Repaso\ClassLibraryRepaso\obj\Debug\ClassLibraryRepaso.pdb
