@@ -1,0 +1,44 @@
+ public Producto(string marca, string codigo, float precio)
+        {
+            this.marca = marca;
+            this.codigoDeBarra = codigo;
+            this.precio = precio;
+        }
+
+
+ES VALIDO TAMBIÉN PONER
+
+ public Producto(string marca, string codigo, float precio)
+        {
+            this.marca = marca;
+            codigoDeBarra = codigo;
+            this.precio = precio;
+        }
+PORQUE NO SE PASA NINGÚN PARÁMETRO CON EL NOMBRE DEL ATRIBUTO
+
+
+SOBRECARGA
+si es explicit, hay que "forzar" la conversion... se usa cuando hay perdida de datos
+si es implicit, asume lo que viene antes, y no pide tipo de conversion
+
+
+public override bool Equals
+{
+if (obj is Producto)
+   return this == (Producto)obj;
+else if (obj is string)
+   return this == (string)obj
+else
+   return false
+}
+
+
+public override int GetHashCode();
+{
+return GetHashCode();
+}
+
+
+
+Para inicializar un ARRAY hay que ponerle la longitud
+
