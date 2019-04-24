@@ -1,0 +1,19 @@
+POLIMORFISMO
+
+Declaracion en clase base, herencia y redefinición de método
+Definicion: clase base con virtual
+Implementacion: clase derivada con override
+
+Sobreescrito hola = new SobreSobreescrito()
+hola es del tipo Sobreescrito, pero como es abstract, se utilizan los métodos de SobreSobreescrito.
+
+Base: Figura 
+Derivadas: Cuadrado, Triangulo
+Métodos: area(); --> en Figura con virtual, en las otras con override
+
+Figura h = new Cuadrado()
+h.area();  --> Llama al método area() de Cuadrado, no de Figura
+
+
+Una clase abstracta no puede ser instanciada, ni sellada
+Un método abstracto tiene que estar sí o sí en una clase abstracta
