@@ -1,0 +1,11 @@
+D:\VisualStudio\Mili\ModeloPrimerParcial20181004\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Mili\ModeloPrimerParcial20181004\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\Mili\ModeloPrimerParcial20181004\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\VisualStudio\Mili\ModeloPrimerParcial20181004\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Mili\ModeloPrimerParcial20181004\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Mili\ModeloPrimerParcial20181004\Entidades\obj\Debug\Entidades.pdb
+C:\Users\julieta.molinari\Desktop\UTN\Programacion-y-Laboratorio-II-master\ModeloPrimerParcial20181004\Entidades\bin\Debug\Entidades.dll
+C:\Users\julieta.molinari\Desktop\UTN\Programacion-y-Laboratorio-II-master\ModeloPrimerParcial20181004\Entidades\bin\Debug\Entidades.pdb
+C:\Users\julieta.molinari\Desktop\UTN\Programacion-y-Laboratorio-II-master\ModeloPrimerParcial20181004\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\julieta.molinari\Desktop\UTN\Programacion-y-Laboratorio-II-master\ModeloPrimerParcial20181004\Entidades\obj\Debug\Entidades.dll
+C:\Users\julieta.molinari\Desktop\UTN\Programacion-y-Laboratorio-II-master\ModeloPrimerParcial20181004\Entidades\obj\Debug\Entidades.pdb

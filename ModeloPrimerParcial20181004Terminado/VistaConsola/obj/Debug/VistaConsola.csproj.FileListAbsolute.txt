@@ -1,0 +1,13 @@
+D:\VisualStudio\Mili\ModeloPrimerParcial20181004\VistaConsola\bin\Debug\VistaConsola.exe.config
+D:\VisualStudio\Mili\ModeloPrimerParcial20181004\VistaConsola\bin\Debug\VistaConsola.exe
+D:\VisualStudio\Mili\ModeloPrimerParcial20181004\VistaConsola\bin\Debug\VistaConsola.pdb
+D:\VisualStudio\Mili\ModeloPrimerParcial20181004\VistaConsola\bin\Debug\Entidades.dll
+D:\VisualStudio\Mili\ModeloPrimerParcial20181004\VistaConsola\bin\Debug\Entidades.pdb
+D:\VisualStudio\Mili\ModeloPrimerParcial20181004\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+D:\VisualStudio\Mili\ModeloPrimerParcial20181004\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Mili\ModeloPrimerParcial20181004\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+D:\VisualStudio\Mili\ModeloPrimerParcial20181004\VistaConsola\obj\Debug\VistaConsola.exe
+D:\VisualStudio\Mili\ModeloPrimerParcial20181004\VistaConsola\obj\Debug\VistaConsola.pdb
+C:\Users\julieta.molinari\Desktop\UTN\Programacion-y-Laboratorio-II-master\ModeloPrimerParcial20181004\VistaConsola\bin\Debug\VistaConsola.exe.config
+C:\Users\julieta.molinari\Desktop\UTN\Programacion-y-Laboratorio-II-master\ModeloPrimerParcial20181004\VistaConsola\obj\Debug\VistaConsola.exe
+C:\Users\julieta.molinari\Desktop\UTN\Programacion-y-Laboratorio-II-master\ModeloPrimerParcial20181004\VistaConsola\obj\Debug\VistaConsola.pdb
