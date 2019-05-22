@@ -1,0 +1,10 @@
+D:\VisualStudio\Mili\Ejercicio47\ProyectoConsole\bin\Debug\ProyectoConsole.exe.config
+D:\VisualStudio\Mili\Ejercicio47\ProyectoConsole\bin\Debug\ProyectoConsole.exe
+D:\VisualStudio\Mili\Ejercicio47\ProyectoConsole\bin\Debug\ProyectoConsole.pdb
+D:\VisualStudio\Mili\Ejercicio47\ProyectoConsole\bin\Debug\Entidades.dll
+D:\VisualStudio\Mili\Ejercicio47\ProyectoConsole\bin\Debug\Entidades.pdb
+D:\VisualStudio\Mili\Ejercicio47\ProyectoConsole\obj\Debug\ProyectoConsole.csprojAssemblyReference.cache
+D:\VisualStudio\Mili\Ejercicio47\ProyectoConsole\obj\Debug\ProyectoConsole.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Mili\Ejercicio47\ProyectoConsole\obj\Debug\ProyectoConsole.csproj.CopyComplete
+D:\VisualStudio\Mili\Ejercicio47\ProyectoConsole\obj\Debug\ProyectoConsole.exe
+D:\VisualStudio\Mili\Ejercicio47\ProyectoConsole\obj\Debug\ProyectoConsole.pdb
