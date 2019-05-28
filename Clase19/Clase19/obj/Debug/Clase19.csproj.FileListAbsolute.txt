@@ -1,0 +1,11 @@
+D:\VisualStudio\Mili\Clase19\Clase19\bin\Debug\Clase19.exe.config
+D:\VisualStudio\Mili\Clase19\Clase19\bin\Debug\Clase19.exe
+D:\VisualStudio\Mili\Clase19\Clase19\bin\Debug\Clase19.pdb
+D:\VisualStudio\Mili\Clase19\Clase19\obj\Debug\Clase19.csprojAssemblyReference.cache
+D:\VisualStudio\Mili\Clase19\Clase19\obj\Debug\Clase19.Form1.resources
+D:\VisualStudio\Mili\Clase19\Clase19\obj\Debug\Clase19.Form2.resources
+D:\VisualStudio\Mili\Clase19\Clase19\obj\Debug\Clase19.Properties.Resources.resources
+D:\VisualStudio\Mili\Clase19\Clase19\obj\Debug\Clase19.csproj.GenerateResource.cache
+D:\VisualStudio\Mili\Clase19\Clase19\obj\Debug\Clase19.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Mili\Clase19\Clase19\obj\Debug\Clase19.exe
+D:\VisualStudio\Mili\Clase19\Clase19\obj\Debug\Clase19.pdb

@@ -1,0 +1,33 @@
+SERIALIZACION
+
+Formattes: XML y binaria
+XML
+<xml>
+	todo lo que tiene.. ejemplo:
+	<Persona>
+		<Nombre> acavaelnombre </Nombre>
+	</Persona>
+</xml>
+Es legible y puede verlo cualquiera que lo pueda abrir
+Sólo guarda lo que es público
+
+Para hacerlo se utiliza la clase XmlSerializer que tiene dos métodos: Serialize y Deserialize
+La clase a serializar tiene que tener un constructor por defecto (que no reciba parámetros)
+
+XmlTextWriter --> Permite escribir en un archivo serializado para cargarlo...
+XmlTextReader --> Permite leer y deserealizar el archivo para usarlo como objeto...
+
+System.io.file.exists(nombredelxml) --> Se puede saber si el archivo ya existe o no
+
+Si nuestra clase es derivada, hay que decirle cuál es la base como una etiqueta arriba --> [XmlInclude(typeof(Clase_Base))]
+
+
+
+BINARIO
+Sólo vamos a ver lo que sea string, y viaja todo (privado y publico)
+
+Arriba de la clase Persona, se tiene que poner la etiqueta [Serializable]
+
+using System.Runtime.Serialization.Formatters.Binary;
+
+
