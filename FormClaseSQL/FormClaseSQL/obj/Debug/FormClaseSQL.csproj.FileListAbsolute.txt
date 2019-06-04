@@ -1,0 +1,10 @@
+D:\VisualStudio\Mili\FormClaseSQL\FormClaseSQL\bin\Debug\FormClaseSQL.exe.config
+D:\VisualStudio\Mili\FormClaseSQL\FormClaseSQL\bin\Debug\FormClaseSQL.exe
+D:\VisualStudio\Mili\FormClaseSQL\FormClaseSQL\bin\Debug\FormClaseSQL.pdb
+D:\VisualStudio\Mili\FormClaseSQL\FormClaseSQL\obj\Debug\FormClaseSQL.csprojAssemblyReference.cache
+D:\VisualStudio\Mili\FormClaseSQL\FormClaseSQL\obj\Debug\FormClaseSQL.Form1.resources
+D:\VisualStudio\Mili\FormClaseSQL\FormClaseSQL\obj\Debug\FormClaseSQL.Properties.Resources.resources
+D:\VisualStudio\Mili\FormClaseSQL\FormClaseSQL\obj\Debug\FormClaseSQL.csproj.GenerateResource.cache
+D:\VisualStudio\Mili\FormClaseSQL\FormClaseSQL\obj\Debug\FormClaseSQL.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Mili\FormClaseSQL\FormClaseSQL\obj\Debug\FormClaseSQL.exe
+D:\VisualStudio\Mili\FormClaseSQL\FormClaseSQL\obj\Debug\FormClaseSQL.pdb
