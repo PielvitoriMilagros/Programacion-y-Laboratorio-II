@@ -1,0 +1,46 @@
+Iniciar SQL Server (establece la conexión)
+SQL Management
+Conectarse a: .\SQLEXPRESS
+
+Crear una base de datos propia:
+Botón derecho, Nuva Base (le pongo un nombre)
+En tablas, botón derecho, nueva tabla (le pongo nombre)
+---Tener en cuenta que si no apreto el botón de actualizar o F5, no voy a ver las tablas que generé.
+
+
+SENTENCIAS
+
+INSERT INTO Provincias (nombre) VALUES ('Prueba de insert')
+select * from Provincias
+
+DELETE FROM Provincias WHERE id=25
+select * from Provincias
+
+UPDATE Provincias SET nombre='SALTA' WHERE id=17
+select * from Provincias
+
+
+SELECT * FROM Localidades WHERE nombre LIKE '%AL'
+
+SELECT * FROM Localidades WHERE nombre LIKE '____AL'
+
+
+SELECT l.nombre AS Nombre_Localidad,
+       p.nombre AS Nombre_Provincia
+FROM Localidades l, Provincias p
+WHERE l.provincia_id = p.id
+
+
+
+Visual Studio
+Botón derecho, propiedades del proyecto
+Configuración - Tipo - Cadena de conexión
+En Valor los tres puntitos de la derecha - Microsoft SQL Server - Continuar - Nombre del servidor:.\SQLExpress - Seleccionar o escribir el nombre de la base: MiBase
+
+Botón derecho - Agregar Referencia - Ensamblados - System.Configuration // Agregar el using System.Configuration
+
+
+Agregar el using System.Data.SqlClient
+
+Properties.Settings.Default.CadenaSQL --> en el Load del formulario, accede a la conexión
+
