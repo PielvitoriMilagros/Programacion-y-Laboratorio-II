@@ -1,8 +1,9 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Archivos;
 
 namespace Clases_Instanciables
 {
@@ -17,7 +18,7 @@ namespace Clases_Instanciables
 
         {
             get { return alumnos; }
-            set { alumnos= value; }
+            set { alumnos = value; }
         }
 
         public Universidad.EClases Clase
@@ -33,8 +34,11 @@ namespace Clases_Instanciables
         }
 
         #endregion
-        public bool Guardar(Jornada jornada)
-        { }
+        public static bool Guardar(Jornada jornada)
+        {
+            Texto archivoTexto = new Texto();
+            return archivoTexto.Guardar("Jornada.txt", jornada.ToString());
+        }
 
 
         #region Constructores
@@ -43,7 +47,7 @@ namespace Clases_Instanciables
             this.alumnos = new List<Alumno>();
         }
 
-        public Jornada(Universidad.EClases clase, Profesor instructor):this()
+        public Jornada(Universidad.EClases clase, Profesor instructor) : this()
         {
             this.clase = clase;
             this.instructor = instructor;
@@ -51,14 +55,19 @@ namespace Clases_Instanciables
 
         #endregion
 
-        public string Leer()
-        { }
+        public static string Leer()
+        {
+            string retorno = "";
+            Texto archivoTexto = new Texto();
+            archivoTexto.Leer("Jornada.txt", out retorno);
+            return retorno;
+        }
 
 
         #region Operadores
         public static bool operator ==(Jornada j, Alumno a)
         {
-            foreach(Alumno auxAlumno in j.alumnos)
+            foreach (Alumno auxAlumno in j.alumnos)
             {
                 if (auxAlumno == a)
                     return true;
@@ -80,11 +89,23 @@ namespace Clases_Instanciables
             return j;
         }
 
-#endregion
+        #endregion
 
         public override string ToString()
         {
-            return base.ToString();
+            StringBuilder sb = new StringBuilder();
+
+            sb.AppendLine("CLASE DE " + this.clase + "POR ");
+            sb.AppendLine(this.instructor.ToString());
+            sb.AppendLine("ALUMNOS: ");
+            foreach (Alumno auxAlumno in this.alumnos)
+            {
+                sb.AppendLine(auxAlumno.ToString());
+            }
+            sb.AppendLine("<------------------------------------------------>");
+
+
+            return sb.ToString();
         }
 
 

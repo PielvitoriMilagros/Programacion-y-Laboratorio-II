@@ -23,7 +23,7 @@ namespace Clases_Abstractas
         //Revisar si en la consigna con "Tipo" de universitario se refiere a nacionalidad
         public static bool operator ==(Universitario pg1, Universitario pg2)
         {
-            if (pg1.GetType() == pg2.GetType() && (pg1.legajo == pg2.legajo || pg1.DNI == pg1.DNI))
+            if (pg1.GetType() == pg2.GetType() && (pg1.legajo == pg2.legajo || pg1.DNI == pg2.DNI))
                 return true;
             return false;
         }

@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,8 +15,8 @@ namespace Clases_Instanciables
         private void _randomClases()
         {
             clasesDelDia = new Queue<Universidad.EClases>();
-            clasesDelDia.Enqueue(clasesDelDia.ElementAt(random.Next(0,3)));
-            clasesDelDia.Enqueue(clasesDelDia.ElementAt(random.Next(0,3)));
+            clasesDelDia.Enqueue((Universidad.EClases)(random.Next(0, 3)));
+            clasesDelDia.Enqueue((Universidad.EClases)(random.Next(0, 3)));
         }
 
         protected override string MostrarDatos()
@@ -37,7 +37,7 @@ namespace Clases_Instanciables
 
         public static bool operator ==(Profesor i, Universidad.EClases clase)
         {
-            foreach(Universidad.EClases auxClase in i.clasesDelDia)
+            foreach (Universidad.EClases auxClase in i.clasesDelDia)
             {
                 if (auxClase == clase)
                     return true;
@@ -50,29 +50,32 @@ namespace Clases_Instanciables
             StringBuilder sb = new StringBuilder();
 
             sb.AppendLine("CLASES DEL DÍA");
-            foreach (Universidad.EClases auxClase in this.clasesDelDia)
+            if (this.clasesDelDia != null)
             {
-                sb.AppendLine(auxClase.ToString());
+                foreach (Universidad.EClases auxClase in this.clasesDelDia)
+                {
+                    sb.AppendLine(auxClase.ToString());
+                }
             }
 
             return sb.ToString();
         }
 
-        public Profesor():base()
+        public Profesor() : base()
         {
-            this.clasesDelDia = new Queue<Universidad.EClases>();
-            this._randomClases();
         }
 
         static Profesor()
         {
             Profesor.random = new Random();
         }
- 
-        Profesor (int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad):base(id,nombre,apellido,dni,nacionalidad)
-        {
-            Profesor.random = new Random();
-        }
+
+        public Profesor(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad) : base(id, nombre, apellido, dni, nacionalidad)
+    {
+      this.clasesDelDia = new Queue<Universidad.EClases>();
+      this._randomClases();
+      //Profesor.random = new Random();
+    }
 
 
         public override string ToString()

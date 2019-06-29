@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -83,7 +83,7 @@ namespace Clases_Abstractas
         {
             set
             {
-                ValidarDni(this.nacionalidad, value);
+                this.dni = ValidarDni(this.nacionalidad, value);
             }
         }
 
@@ -97,15 +97,15 @@ namespace Clases_Abstractas
         {
             int auxDni = 0;
             // Verificar si para la segunda parte de este IF ya está cargado auxDni
-            if (int.TryParse(dato, out auxDni) && auxDni > 0 && auxDni < 99999999)
+            if (int.TryParse(dato, out auxDni) && auxDni > 0 && auxDni <= 99999999)
             {
                 if (nacionalidad == ENacionalidad.Argentino && auxDni > 89999999)
                 {
-                    throw new NacionalidadInvalidaException();
+                    throw new NacionalidadInvalidaException("La nacionalidad no se condice con el número de DNI");
                 }
                 if (nacionalidad == ENacionalidad.Extranjero && auxDni < 90000000)
                 {
-                    throw new NacionalidadInvalidaException();
+                    throw new NacionalidadInvalidaException("La nacionalidad no se condice con el número de DNI");
                 }
             }
             else

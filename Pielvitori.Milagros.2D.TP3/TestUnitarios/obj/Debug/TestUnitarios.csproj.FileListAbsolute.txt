@@ -1,0 +1,25 @@
+D:\VisualStudio\Mili\Pielvitori.Milagros.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\VisualStudio\Mili\Pielvitori.Milagros.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\VisualStudio\Mili\Pielvitori.Milagros.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\VisualStudio\Mili\Pielvitori.Milagros.2D.TP3\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\VisualStudio\Mili\Pielvitori.Milagros.2D.TP3\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\VisualStudio\Mili\Pielvitori.Milagros.2D.TP3\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\VisualStudio\Mili\Pielvitori.Milagros.2D.TP3\TestUnitarios\bin\Debug\TestUnitarios.dll
+D:\VisualStudio\Mili\Pielvitori.Milagros.2D.TP3\TestUnitarios\bin\Debug\TestUnitarios.pdb
+D:\VisualStudio\Mili\Pielvitori.Milagros.2D.TP3\TestUnitarios\bin\Debug\Archivos.dll
+D:\VisualStudio\Mili\Pielvitori.Milagros.2D.TP3\TestUnitarios\bin\Debug\Clases Abstractas.dll
+D:\VisualStudio\Mili\Pielvitori.Milagros.2D.TP3\TestUnitarios\bin\Debug\Clases Instanciables.dll
+D:\VisualStudio\Mili\Pielvitori.Milagros.2D.TP3\TestUnitarios\bin\Debug\Excepciones.dll
+D:\VisualStudio\Mili\Pielvitori.Milagros.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\VisualStudio\Mili\Pielvitori.Milagros.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\VisualStudio\Mili\Pielvitori.Milagros.2D.TP3\TestUnitarios\bin\Debug\Archivos.pdb
+D:\VisualStudio\Mili\Pielvitori.Milagros.2D.TP3\TestUnitarios\bin\Debug\Clases Abstractas.pdb
+D:\VisualStudio\Mili\Pielvitori.Milagros.2D.TP3\TestUnitarios\bin\Debug\Clases Instanciables.pdb
+D:\VisualStudio\Mili\Pielvitori.Milagros.2D.TP3\TestUnitarios\bin\Debug\Excepciones.pdb
+D:\VisualStudio\Mili\Pielvitori.Milagros.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\VisualStudio\Mili\Pielvitori.Milagros.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\VisualStudio\Mili\Pielvitori.Milagros.2D.TP3\TestUnitarios\obj\Debug\TestUnitarios.csprojAssemblyReference.cache
+D:\VisualStudio\Mili\Pielvitori.Milagros.2D.TP3\TestUnitarios\obj\Debug\TestUnitarios.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Mili\Pielvitori.Milagros.2D.TP3\TestUnitarios\obj\Debug\TestUnitarios.csproj.CopyComplete
+D:\VisualStudio\Mili\Pielvitori.Milagros.2D.TP3\TestUnitarios\obj\Debug\TestUnitarios.dll
+D:\VisualStudio\Mili\Pielvitori.Milagros.2D.TP3\TestUnitarios\obj\Debug\TestUnitarios.pdb

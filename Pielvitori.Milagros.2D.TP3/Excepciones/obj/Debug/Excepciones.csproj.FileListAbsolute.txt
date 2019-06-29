@@ -12,7 +12,6 @@ C:\Users\alumno\Desktop\Pielvitori.Milagros.2D.TP3\Excepciones\obj\Debug\Excepci
 C:\Users\alumno\Desktop\Pielvitori.Milagros.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb
 D:\VisualStudio\Mili\Pielvitori.Milagros.2D.TP3\Excepciones\bin\Debug\Excepciones.dll
 D:\VisualStudio\Mili\Pielvitori.Milagros.2D.TP3\Excepciones\bin\Debug\Excepciones.pdb
-D:\VisualStudio\Mili\Pielvitori.Milagros.2D.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
 D:\VisualStudio\Mili\Pielvitori.Milagros.2D.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
 D:\VisualStudio\Mili\Pielvitori.Milagros.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
 D:\VisualStudio\Mili\Pielvitori.Milagros.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb
